@@ -1,0 +1,10 @@
+Adatok áttekintése</br></br>|attekint.php|Adatok áttekintése és módosítása|Tartalom meta leírása.|
+Kérdés angolul, válasz magyar</br></br>|kikerdez_a_1.php|Hányadik leckéből kérdezze a szavakat|Tartalom meta leírása.|
+<!--Kérdés: angol-->|kikerdez_a_2.php|Angol szavakat kérdez|Tartalom meta leírása.|
+Kérdés magyarul, válasz angol</br></br>|kikerdez_m_1.php|Hányadik leckéből kérdezze a szavakat|Tartalom meta leírása.|
+<!--Kérdés: magyar-->|kikerdez_m_2.php|Magyar szavakat kérdez|Tartalom meta leírása.|
+Űrlapból tölt fel</br></br>|feltolt_1.php|Lecke számának megadása|Tartalom meta leírása.|
+<!--Feltöltés: szó-->|feltolt_2.php|Szavak megadása|Tartalom meta leírása.|
+Újra kérdez minden szót.</br></br>|nullaz_1.php|A lecke szavait újra kérdezi|Tartalom meta leírása.|
+Hangfájlt tölt mappába</br></br>|hangfajl_1.php|Hangfájlt tölt mappába|Tartalom meta leírása.|
+Nyomtatható formátum</br></br>|nyomtat_1.php|Nyomtatható formátum.|Tartalom meta leírása.|
